@@ -10,6 +10,6 @@ import Foundation
 
 public extension String {
     var testPodVersion: String {
-        "\(self) version 0.0.2"
+        "\(self) version 0.0.3"
     }
 }
